@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mary-cyb  
+- 👀 I’m interested in cybersecurity, IT infrastructure, and automation.  
+- 🌱 I’m currently learning advanced Python scripting and exploring cloud security.  
+- 💞️ I’m looking to collaborate on projects related to system optimization, network security, and enterprise IT solutions.  
+- 📫 How to reach me: Email me at maryarulraj.01@gmail.com or connect on [LinkedIn](https://linkedin.com/in/mary-nirmala).  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I love troubleshooting complex technical issues and often compare it to solving puzzles—finding the missing piece is always satisfying!  
